@@ -19,10 +19,6 @@ Dokumen ini menjelaskan fitur aplikasi berdasarkan empat aktor, yaitu Guest, Cus
 
 ![Gambar Kedua](Picture2.jpg)
 
-Customer dan Provider berinteraksi melalui pemesanan, chat, dan pembaruan status.
-
-Admin mengelola serta memantau data dan aktivitas aplikasi.
-
 Secara umum, Guest melihat informasi layanan sebelum mendaftar. Customer mencari dan memesan jasa, sedangkan Provider menawarkan jasa dan menangani permintaan pesanan. Admin mengelola data serta memantau aktivitas aplikasi.
 
 

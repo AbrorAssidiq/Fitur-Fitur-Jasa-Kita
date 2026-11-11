@@ -1,4 +1,4 @@
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/1358214d-a2b2-440d-9ca3-b6f9724aeb39" />## FITUR FITUR JASA KITA
+## FITUR FITUR JASA KITA
 
 Penjelasan fitur berdasarkan sudut pandang empat aktor utama
 
@@ -305,3 +305,4 @@ Berdasarkan identifikasi kebutuhan pengguna, aplikasi Jasa Kita memiliki empat a
 
 ## Ringkasan jumlah fitur
 
+![Gambar Ketuju](Picture7.jpg)

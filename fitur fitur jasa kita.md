@@ -4,13 +4,6 @@ Penjelasan fitur berdasarkan sudut pandang empat aktor utama
 
 ![Gambar Pertama](Picture1.jpg)
 
-Provider
-
-Admin
-
-Guest
-
-Customer
 
 Menawarkan jasa
 

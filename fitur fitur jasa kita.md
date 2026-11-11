@@ -305,4 +305,3 @@ Berdasarkan identifikasi kebutuhan pengguna, aplikasi Jasa Kita memiliki empat a
 
 ## Ringkasan jumlah fitur
 
-![Gambar Ketuju](Picture7.jpg)

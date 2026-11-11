@@ -5,17 +5,6 @@ Penjelasan fitur berdasarkan sudut pandang empat aktor utama
 ![Gambar Pertama](Picture1.jpg)
 
 
-Menawarkan jasa
-
-Mengelola sistem
-
-Melihat informasi
-
-Mencari & memesan
-
-Customer dan Provider berinteraksi melalui pemesanan, chat, dan pembaruan status.
-
-Admin mengelola serta memantau data dan aktivitas aplikasi.
 
 Guest • Customer • Provider • Admin
 

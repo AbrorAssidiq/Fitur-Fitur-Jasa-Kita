@@ -2,7 +2,7 @@
 
 Penjelasan fitur berdasarkan sudut pandang empat aktor utama
 
-![Gambar Pertama](images/picure1.jpg)
+![Gambar Pertama](Picture1.jpg)
 
 Provider
 
@@ -35,7 +35,7 @@ Dokumen ini menjelaskan fitur aplikasi berdasarkan empat aktor, yaitu Guest, Cus
 
 ## Gambaran hubungan antaraktor
 
-![Gambar Kedua](images/picure2.jpg)
+![Gambar Kedua](Picture2.jpg)
 
 Customer dan Provider berinteraksi melalui pemesanan, chat, dan pembaruan status.
 
@@ -48,7 +48,7 @@ Secara umum, Guest melihat informasi layanan sebelum mendaftar. Customer mencari
 
 ## 4 fitur
 
-![Gambar Ketiga](images/picure3.jpg)
+![Gambar Ketiga](Picture3.jpg)
 
 Guest merupakan pengguna yang membuka aplikasi tetapi belum memiliki akun atau belum login. Guest dapat mengakses informasi umum dan melihat layanan yang tersedia sebelum memutuskan untuk mendaftar.
 
@@ -80,6 +80,8 @@ Tujuan: Membantu pengunjung mempertimbangkan penyedia jasa yang sesuai dengan ke
 ## Customer (Pelanggan)
 
 ## 12 fitur
+
+![Gambar Keempat](Picture4.jpg)
 
 Customer merupakan pengguna yang telah memiliki akun dan melakukan login ke aplikasi Jasa Kita. Customer dapat mencari layanan, melakukan pemesanan, berkomunikasi dengan Provider, serta memberikan penilaian.
 
@@ -161,6 +163,8 @@ Tujuan: Memberikan evaluasi terhadap kualitas layanan serta membantu calon pelan
 
 ## 11 fitur
 
+![Gambar Kelima](Picture5.jpg)
+
 Provider merupakan pengguna yang berperan sebagai penyedia atau mitra layanan jasa di dalam aplikasi Jasa Kita. Provider dapat menawarkan layanan, mengelola profil, menerima permintaan pemesanan, dan memperbarui perkembangan pekerjaan.
 
 ## 1. Fitur Mendaftar dan Login
@@ -234,6 +238,8 @@ Tujuan: Mempermudah komunikasi agar pekerjaan dapat dipahami dan dilaksanakan se
 ## Admin (Administrator)
 
 ## 9 fitur
+
+![Gambar Keenam](Picture6.jpg)
 
 Admin merupakan pihak yang bertanggung jawab mengelola dan mengawasi aktivitas aplikasi Jasa Kita. Admin memiliki akses melalui dashboard khusus untuk mengelola data pengguna, memverifikasi mitra, mengatur kategori jasa, serta memantau pemesanan dan laporan.
 
